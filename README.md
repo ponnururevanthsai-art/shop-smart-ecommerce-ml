@@ -155,6 +155,6 @@ notebooks/shop_smart_decision_tree.ipynb
 
 ## 👨‍💻 Author
 
-Your Name
+Your Revanth Sai Ponnuru
 
 GitHub: https://github.com/YOUR_USERNAME
